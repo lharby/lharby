@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lharby
+- 👋 Hi, I’m Luke
 - 👀 I’m interested in retiring
 - 🌱 I’m currently working with Svelte, React, Typesript, ES6 JavaScript, SASS, Styled Components, Storybook
 - 🥶 I did a cool thing with sockets recently
