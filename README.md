@@ -2,7 +2,7 @@
 - 👀 I’m interested in retiring
 - 🌱 I’m currently working with Svelte, React, ~~Typesript~~, ES6 JavaScript, SASS, Styled Components, Storybook
 - 🥶 I did a cool thing with sockets recently
-- 📫 How to reach me https://slackwise.org.uk
+- 📫 How to reach me [https://lharby.github.io](https://lharby.github.io/)
 
 <!---
 lharby/lharby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
