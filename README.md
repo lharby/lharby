@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luke
 - 👀 I’m interested in retiring
-- 🌱 I’m currently working with Svelte, React, ~~Typesript~~, JavaScript, NodeJS, SASS, Styled Components, Storybook
+- 🌱 I’m currently working with Svelte, React, Typesript, JavaScript, NodeJS, SASS, Styled Components, Storybook
 - 🤖 I did a cool thing with sockets recently
 - 📫 How to reach me [https://lharby.github.io](https://lharby.github.io/)
 
